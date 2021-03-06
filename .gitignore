@@ -1,4 +1,3 @@
-.gitignore
 /Telecom/*
 !/Telecom/telecom.ipynb
 !/Telecom/README.md
